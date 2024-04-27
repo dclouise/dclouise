@@ -6,8 +6,8 @@
 - Christopher Nolan fan — Interstellar & Oppenheimer
 
 Bot developer of:
-**EuriOS** @ [Euri Hub](https://discord.gg/XzztaEXNxe)
-**Heira** @ DC Programs
+- **EuriOS** @ [Euri Hub](https://discord.gg/XzztaEXNxe)
+- **Heira** @ DC Programs
 <!--
 **dclouise/dclouise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
