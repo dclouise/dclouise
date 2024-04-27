@@ -5,9 +5,20 @@
 - INTP 5w4 - I enjoy mathematics, science, scrabble, music, CS, sports, & chess
 - Christopher Nolan fan — Interstellar & Oppenheimer
 
-Bot developer of:
+🤖  —  Bot developer of:
 - **EuriOS** @ Euri Hub
 - **Heira** @ DC Programs
+
+💻  —  Fields of Experience:
+- Node.js
+- Python
+- Typescript
+- Nextjs
+- React
+- SQL
+- PHP
+- Tailwind CSS
+- Java
 <!--
 **dclouise/dclouise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
