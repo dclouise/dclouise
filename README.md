@@ -1,8 +1,8 @@
 ### ❀ DCLouise
 
 👋  —  Hey there, I'm **Debbie**.
-> Mediocre front-end developer, graphic designer, & artist
-> INTP 5w4 - I enjoy mathematics, science, scrabble, music, CS, sports, & chess
+> Mediocre front-end developer, graphic designer, & artist\n
+> INTP 5w4 - I enjoy mathematics, science, scrabble, music, CS, sports, & chess\n
 > Christopher Nolan fan — Interstellar & Oppenheimer
 
 Bot developer of:
