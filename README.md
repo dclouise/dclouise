@@ -9,7 +9,7 @@
 - **EuriOS** @ Euri Hub
 - **Heira** @ DC Programs
 
-💻  —  Fields of Experience:
+💻  —  **Fields of Experience:**
 - Node.js
 - Python
 - Typescript
@@ -19,6 +19,8 @@
 - PHP
 - Tailwind CSS
 - Java
+
+📨  —  For inquiries, feel free to reach out to me via email: **devdclouise@gmail.com** or Discord: **dclouise**
 <!--
 **dclouise/dclouise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
