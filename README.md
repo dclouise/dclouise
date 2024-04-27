@@ -1,5 +1,13 @@
-### Hi there 👋
+### ❀ DCLouise
 
+👋  —  Hey there, I'm **Debbie**.
+> Mediocre front-end developer, graphic designer, & artist
+> INTP 5w4 - I enjoy mathematics, science, scrabble, music, CS, sports, & chess
+> Christopher Nolan fan — Interstellar & Oppenheimer
+
+Bot developer of:
+**EuriOS** @ [Euri Hub](https://discord.gg/XzztaEXNxe)
+**Heira** @ DC Programs
 <!--
 **dclouise/dclouise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
