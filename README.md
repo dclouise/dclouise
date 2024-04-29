@@ -16,9 +16,7 @@
 - Nextjs
 - React
 - SQL
-- PHP
 - Tailwind CSS
-- Java
 
 📨  —  For inquiries, feel free to reach out to me via email: **devdclouise@gmail.com** or Discord: **dclouise**
 <!--
